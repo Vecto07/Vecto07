@@ -6,7 +6,7 @@
 
 ### About Me :
 
-I am Vecto, i live in Germany and im interested in everything that has to do with Computers.
+I am Vecto, I live in Germany and im interested In everything that has to do with Computers.
 
 - PC Specs:
   - Ryzen 5 5600G
