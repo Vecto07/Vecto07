@@ -9,6 +9,7 @@
 I am Vecto, I live in Germany and im interested In everything that has to do with Computers.
 
 - PC Specs:
+  - Gigabyte Gaming OC Radeon RX 6650 XT
   - Ryzen 5 5600G
   - Asus Prime B450M-A II Micro ATX AM4 Motherboard
   - Crucial Ballistix 2x8 3200mhz RGB 
